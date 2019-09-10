@@ -1,4 +1,6 @@
-# lily-la-day-before
+# My First Webpage 
+
+**Created in March 2019 (before I knew things!)**
 
 
 This was my very first attempt at coding a webpage. It is (the beginnings of at least) a personal website and was created in March 2019 before I was comfortable using GitHub and definitely before I was comfortable using JavaScript.
