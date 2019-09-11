@@ -140,7 +140,7 @@ function answerAppear18() {
   };
   ```
   
-  (And that really is just a tiny snippet of it!!)
+  (And that really is just a tiny snippet of it)
   
   So, in conclusion:
 
