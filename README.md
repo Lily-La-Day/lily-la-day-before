@@ -33,21 +33,16 @@ I bloody love this crossword I do, partly because I am very proud of myself for 
 
 I have no idea why it is so large and the JavaScript could not be less DRY if it were an actual deep sea fish but hey! I did my best. 
 
-The crossword: <th><p align="center"><img src="https://i.ibb.co/tKp7HWS/crossword-old.png" width="700"></p></th>
-
-
-  And a link : 
+The crossword:https://lily-la-day.github.io/lily-la-day-before/crossword.html <th><p align="center"><img src="https://i.ibb.co/tKp7HWS/crossword-old.png" width="700"></p></th>
 
 https://lily-la-day.github.io/lily-la-day-before/crossword.html
 
 
-  And the new one (for comparison):
+  And the new one (for comparison):  http://lily-la-day.com/
  
  <th><p align="center"><img src="https://i.ibb.co/8DWQKGT/crossword-new.png" width="700"></p></th>
  
- http://lily-la-day.com/
-
-  Just a snapshot of the (hilarious) JavaScript code that fills in the words when the clues are clicked: 
+ Just a snapshot of the (hilarious) JavaScript code that fills in the words when the clues are clicked: 
 
 ```js
 function answerAppear4a() {
